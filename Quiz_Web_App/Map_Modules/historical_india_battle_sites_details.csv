@@ -1,0 +1,43 @@
+Battle,Year,Place,"Part of",Winner,Loser,Lat,Lon
+"First Battle of Tarain",1191,Tarain,,"Chauhan Dynasty","Ghurid Empire",29.8,76.9334
+"Second Battle of Tarain",1192,Tarain,,"Ghurid Empire","Chauhan Dynasty",29.9,76.9334
+"Battle of Jalandhar",1298,Jalandhar,,"Delhi Sultanate","Mongol Empire",31.326,75.5762
+"Battle of Amroha",1305,Amroha,,"Delhi Sultanate","Mongol Empire",28.9052,78.4673
+"Battle of Cochin",1504,Kochi,,"Portuguese Empire Kingdom of Cochin","Samoothiri of Kozhikode",9.9312,76.2673
+"Portuguese conquest of Goa",1510,Goa,,"Portuguese Empire","Bijapur Sultanate",15.4909,73.8278
+"First Battle of Panipat",1526,Panipat,"Mughal conquest of India",Babur,"Ibrahim Lodhi",29.3909,76.9635
+"Battle of Khanwa",1527,Khanwa,"Mughal conquest of India",Babur,"Rana Sanga",27.2152,77.503
+"Battle of Chanderi",1528,Chanderi,"Mughal conquest of India",Babur,"Medini Rai",24.7128,78.1365
+"Battle of Ghaghra",1529,Ghaghra,"Mughal conquest of India",Babur,Afghans,25.7811,84.7543
+"Battle of Chausa",1539,Chausal,"Mughal conquest of India","Sher Shah Suri","Mughal emperor Humayun",25.5092,83.8924
+"Battle of Kanauj",1540,"Kanauj or Billgram","Mughal conquest of India","Sher Shah Suri","Mughal emperor Humayun",27.0514,79.9137
+"Battle of Tughlaqabad",1556,Delhi,"Mughal conquest of India","King Hem Chandra Vikramaditya (Hemu)",Akbar,28.5052,77.2779
+"Second Battle of Panipat",1556,Panipat,"Mughal conquest of India","Bairam Khan (for Akbar)","Hem Chandra Vikramaditya (Hemu)",29.4919,76.9635
+"Battle of Talikota",1565,Tallikota,,"Unified Army of the five Deccan Sultanates defeated","Vijayanagara Army",16.494,76.329
+"Battle of Haldighati",1576,Haldighati,"Mughal conquest of India",Akbar,"Rana of Mewar Pratap",25.0583,73.886
+"Siege of Arcot",1751,Arcot,"Second Carnatic War","British East India Company","Nawab of Arcot, French East India Company",12.9044,79.3192
+"Battle of Seringham",1753,"Srirangam Island","Second Carnatic War","British East India Company","French East India Company troops and Chanda Sahib",10.856,78.6966
+"Siege of Calcutta",1756,Calcutta,,"Nawab of Bengal","British East India Company",22.5726,88.3639
+"Battle of Plassey",1757,Plassey,,"Robert Clive","Siraj ud-Daulah",23.7833,88.2607
+"Battle of Lahore",1759,Lahore,"Indian Campaign of Ahmad Shah Durrani","Marathas and Sikhs","Durrani Empire",31.5204,74.3587
+"Siege of Pondicherry",1760,Pondicherry,"Third Carnatic War","British East India Company","French East India Company",11.9416,79.8083
+"Third Battle of Panipat",1761,Panipat,,"Ahmad Shah Abdali",Marathas,29.5929,76.9635
+"Battle of Wandiwash",1760,Wandiwash,,"British East India Company","French East India Company",12.5029,79.6025
+"Battle of Buxar",1764,Buxar,,"Hector Munro","Combined armies of Nawab Mir Qasim (Bengal), Nawab Shuja-ud-Daulah (Awadh)& Mughal emperor Shah Alam",25.5647,83.9777
+"Siege of Ambur",1767,Ambur,"First Anglo-Mysore War","Kingdom of Mysore Hyder Ali","British East India Company",12.7802,78.7177
+"Battle of Pollilur",1781,Pollilur,"Second Anglo-Mysore War","British East India Company","Kingdom of Mysore",12.9716,79.7083
+"Battle of Porto Novo",1781,"Porto Novo","Second Anglo-Mysore War","British East India Company","Kingdom of Mysore",11.5084,79.7568
+"Battle of Sholinghur",1781,Sholinghur,"Second Anglo-Mysore War","British East India Company","Kingdom of Mysore",13.1116,79.431
+"Battle of Poona",1781,Pune,,"Maratha Empire","British East India Company",18.5204,73.8567
+"Siege of Tellicherry",1782,Tellicherry,"Second Anglo-Mysore War","British East India Company","Kingdom of Mysore",11.7491,75.489
+"Siege of Vellore",1782,Vellore,"Second Anglo-Mysore War","British East India Company","Kingdom of Mysore",12.9165,79.1325
+"Siege of Cuddalore",1783,Cuddalore,"Second Anglo-Mysore War","Kingdom of Mysore","British East India Company",11.748,79.7714
+"Siege of Mangalore",1783,Mangalore,"Second Anglo-Mysore War","Kingdom of Mysore","British East India Company",12.9141,74.856
+"Siege of Nargund",1785,Nargund,"Maratha-Mysore War","Kingdom of Mysore","Maratha Empire",15.7214,75.3849
+"Siege of Badami",1786,Badami,"Maratha-Mysore War","Maratha Empire","Kingdom of Mysore",15.9186,75.6761
+"Battle of Calicut",1790,"Calicut, Malabar coast","Third Anglo-Mysore War","Travancore and British East India Company","Kingdom of Mysore",11.2588,75.7804
+"Battle of Peshawar",1834,Peshawar,"Afghan-Sikh Wars",Sikh,"Emirate of Afghanistan",34.0151,71.5249
+"First Anglo-Afghan War",1842,Afghanistan,,"British East India Company","Dost Mohammad Khan (Emir of Afghanistan)",34.5553,69.2075
+"Gwalior Campaign",1843,Gwalior,,"British East India Company","Maratha Empire",26.2183,78.1828
+"Siege of Multan",1849,Multan,"Second Anglo-Sikh War","British East India Company",Multan,30.1575,71.5249
+"Siege of Seringapatam",1799,Seringapatam,"Fourth Anglo-Mysore War","British East India Company","Tipu Sultan",12.4237,76.6829

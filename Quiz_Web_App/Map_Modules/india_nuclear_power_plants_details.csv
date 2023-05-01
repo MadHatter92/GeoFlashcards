@@ -1,0 +1,23 @@
+"Power station",Operator,State,Type,Units,"Total capacity (MW)","Expected Commercial Operation",Status,Lat,Lon
+Kaiga,NPCIL,Karnataka,PHWR,220 × 4,880,,Operational,14.8661, 74.4394
+Kakrapar,NPCIL,Gujarat,"PHWR IPHWR-700","220 × 2 700 × 1",1140,,Operational,21.2996, 73.3664
+Kudankulam,NPCIL,"Tamil Nadu",VVER-1000,1000 × 2,2000,,Operational,8.1798, 77.7051
+Kalpakkam,NPCIL,"Tamil Nadu",PHWR,220 × 2,440,,Operational,12.5238, 80.1568
+Narora,NPCIL,"Uttar Pradesh",PHWR,220 × 2,440,,Operational,28.1968, 78.3814
+Rawatbhata,NPCIL,Rajasthan,PHWR,"100 × 1  200 x 1 220 × 4",1080,,Operational,24.9306, 75.5909
+Tarapur,NPCIL,Maharashtra,BWRPHWR,"160 x 2540 × 2",1400,,Operational,19.8649, 72.6850
+"Kalpakkam 2",Bhavini,"Tamil Nadu",PFBR,"500 × 1",500,2020,"Under Construction",12.6238, 80.1568
+"Kakrapar Unit 4",NPCIL,Gujarat,IPHWR-700,"700 × 1",700,2022,"Under Construction",21.3996, 73.3664
+Gorakhpur,NPCIL,Haryana,IPHWR-700,"700 × 2",1400,2025,"Under Construction",29.4438, 75.6703
+"Rajasthan Unit 7 and 8",NPCIL,Rajasthan,IPHWR-700,"700 × 2",1400,2022,"Under Construction",25.9306, 75.5909
+"Kudankulam Unit 3 and 4",NPCIL,"Tamil Nadu",VVER-1000,"1000 × 2","2,000",2025-2026,"Under Construction",8.2798, 77.7051
+Jaitapur 2,NPCIL,Maharashtra,EPR,"1650 × 6",9900,,Planned,16.6262, 73.3694
+Kovvada,NPCIL,"Andhra Pradesh",AP1000,"1100 × 6",6600,,Planned,16.5650, 81.5130
+Kavali,NPCIL,"Andhra Pradesh",VVER,"1000 x 6",6000,,Planned,14.9132, 79.9930
+"Gorakhpur 2",NPCIL,Haryana,IPHWR-700,"700 × 2","1,400",,Planned,29.5438, 75.6703
+"Mahi Banswara",NPCIL,Rajasthan,IPHWR-700,"700 × 4",2800,,Planned,23.5461, 74.4350
+"Kaiga 2",NPCIL,Karnataka,IPHWR-700,"700 × 2",1400,,Planned,14.9661, 74.4394
+Chutka,NPCIL,"Madhya Pradesh",IPHWR-700,"700 × 2",1400,,Planned,22.1989, 79.7764
+"Kudankulam Unit 5 and 6",NPCIL,"Tamil Nadu",VVER-1000,"1000 × 2","2,000",,Planned,8.3798, 77.7051
+Madras,BHAVINI,"Tamil Nadu",FBR,"600 × 2",1200,,Planned,12.7238, 80.1568
+"Tarapur 2",,,AHWR,"300 × 1",300,,Planned,19.9649, 72.6850
